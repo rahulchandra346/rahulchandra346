@@ -22,7 +22,7 @@
 
 ---
 
-## ✦ 01 / About Me
+## ✦ About Me
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ I enjoy exploring new technologies, solving real-world problems, and turning con
 
 ---
 
-## ✦ 02 / My Tech Universe
+## ✦ My Tech Universe
 
 <div align="center">
 
@@ -92,7 +92,7 @@ I enjoy exploring new technologies, solving real-world problems, and turning con
 
 ---
 
-## ✦ 03 / GitHub Analytics
+## ✦ GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I enjoy exploring new technologies, solving real-world problems, and turning con
 
 ---
 
-## ✦ 04 / What Defines My Work
+## ✦ What Defines My Work
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Learn, experiment, improve, and repeat.
 
 ---
 
-## ✦ 05 / Let's Connect
+## ✦ Let's Connect
 
 <div align="center">
 
