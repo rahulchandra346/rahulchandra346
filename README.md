@@ -1,37 +1,46 @@
 
-<!-- =============== HERO SECTION =============== -->
+<!-- ================================================== -->
+<!--                 HERO / NEON HEADER                 -->
+<!-- ================================================== -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:06B6D4&text=RAHUL%20CHANDRA&fontColor=FFFFFF&fontSize=48&fontAlignY=45&animation=fadeIn&desc=AI%2FML%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPER&descSize=16&descAlignY=65" width="100%" alt="Rahul Chandra developer banner"/>
-
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Hey%2C+welcome+to+my+digital+space+%F0%9F%91%8B;Building+AI-powered+applications;Turning+data+into+insights;Creating+modern+web+experiences;Think+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Animated typing introduction"/>
-
-  <br/>
-
-  <a href="https://github.com/rahulchandra346">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-chandra-kolla-8a5698258/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kollarahulchandra07%40gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-  </a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,35:172554,70:4C1D95,100:0891B2&text=RAHUL%20CHANDRA&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" alt="Rahul Chandra futuristic banner"/>
 
 <br/>
 
-<!-- =============== ABOUT ME =============== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=700&height=55&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;I+turn+ideas+into+intelligent+solutions;Building+with+AI+%26+modern+web+technologies;Curiosity+is+my+development+engine;Think+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Animated developer introduction"/>
 
-<h2 align="center">⌜ ABOUT ME ⌟</h2>
+<br/><br/>
+
+<a href="https://github.com/rahulchandra346">
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rahul-chandra-kolla-8a5698258/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kollarahulchandra07%40gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/SAY_HELLO-0B1220?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email via Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-LEARNING%20%26%20BUILDING-0891B2?style=flat-square" alt="AI ML"/>
+<img src="https://img.shields.io/badge/FULL--STACK-CRAFTING%20APPLICATIONS-7C3AED?style=flat-square" alt="Full-stack development"/>
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!--                     ABOUT ME                       -->
+<!-- ================================================== -->
+
+<h2 align="center">◈ &nbsp; BEYOND THE CODE</h2>
 
 <div align="center">
 
-  <samp>Curious mind. Creative builder. Technology enthusiast.</samp>
+<i>A curious mind exploring the intersection of intelligence, creativity, and technology.</i>
 
 </div>
 
@@ -39,113 +48,151 @@
 
 ```python
 class RahulChandra:
-    def __init__(self):
-        self.role = "AI/ML & Full-Stack Developer"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Data Science"
-        ]
-        self.mindset = "Learn. Experiment. Build. Improve."
+    name = "Kolla Rahul Chandra"
+    role = "AI/ML & Full-Stack Developer"
 
-    def current_goal(self):
-        return "Building technology that solves real problems."
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Full-Stack Development",
+        "Data Science"
+    ]
+
+    philosophy = "Build things that matter."
+
+    def next_step(self):
+        return "Learn something new. Create something useful."
 
 
-me = RahulChandra()
-print(me.current_goal())
+developer = RahulChandra()
 ```
 
-- 🧠 Exploring intelligent applications and machine learning.
-- 🌐 Building with modern frontend and backend technologies.
-- 📊 Interested in predictive modeling and data-driven solutions.
-- 🛠️ Focused on practical development and continuous improvement.
-- 🤝 Open to collaboration, learning, and new opportunities.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🧠 The Mindset
 
-<!-- =============== TECH STACK =============== -->
+- Explore ideas beyond the obvious.
+- Turn complex problems into practical solutions.
+- Learn continuously and experiment often.
+- Build software with purpose.
 
-<h2 align="center">⌜ MY TECH UNIVERSE ⌟</h2>
+</td>
+<td width="50%" valign="top">
 
-<h3 align="center">01 / Programming Languages</h3>
+### ⚡ The Mission
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" alt="Programming languages"/>
-</p>
+- Explore AI-powered applications.
+- Develop modern web experiences.
+- Understand data and predictive models.
+- Grow through building and collaboration.
 
-<h3 align="center">02 / Frontend Engineering</h3>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend technologies"/>
-</p>
+---
 
-<h3 align="center">03 / Backend & Databases</h3>
+<!-- ================================================== -->
+<!--                    TECH STACK                      -->
+<!-- ================================================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,php,mongodb,mysql,supabase&theme=dark" alt="Backend and database technologies"/>
-</p>
-
-<h3 align="center">04 / AI, ML & Developer Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,vscode&theme=dark" alt="Machine learning and development tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0891B2?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" alt="SQL"/>
-</p>
-
-<br/>
-
-<!-- =============== GITHUB ANALYTICS =============== -->
-
-<h2 align="center">⌜ GITHUB ANALYTICS ⌟</h2>
-
-<p align="center">
-  <samp>A snapshot of my open-source journey.</samp>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulchandra346&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=E2E8F0" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchandra346&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&langs_count=6" alt="Most used languages"/>
-</p>
-
-<br/>
-
-<!-- =============== CONNECT =============== -->
-
-<h2 align="center">⌜ LET'S CREATE SOMETHING GREAT ⌟</h2>
-
-<p align="center">
-  Have an idea, an opportunity, or an interesting project?
-  <br/>
-  Let's connect and build something meaningful.
-</p>
-
-<p align="center">
-  <a href="https://github.com/rahulchandra346">
-    <img src="https://img.shields.io/badge/01-GITHUB-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-chandra-kolla-8a5698258/">
-    <img src="https://img.shields.io/badge/02-LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn profile"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kollarahulchandra07%40gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/03-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email via Gmail"/>
-  </a>
-</p>
-
-<br/>
+<h2 align="center">◈ &nbsp; MY DIGITAL TOOLKIT</h2>
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:164E63,50:22D3EE,100:818CF8" width="100%" alt="Decorative divider"/>
+<p><b>01 — LANGUAGES</b></p>
 
-  <samp>Designed with curiosity · Powered by code · Driven by creativity</samp>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" alt="Programming languages"/>
+
+<br/><br/>
+
+<p><b>02 — FRONTEND EXPERIENCE</b></p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend technologies"/>
+
+<br/><br/>
+
+<p><b>03 — BACKEND & DATA</b></p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,php,mongodb,mysql,supabase&theme=dark" alt="Backend and databases"/>
+
+<br/><br/>
+
+<p><b>04 — AI / ML & DEVELOPMENT TOOLS</b></p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,vscode&theme=dark" alt="AI and developer tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge" alt="REST APIs"/>
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!--                  GITHUB ANALYTICS                  -->
+<!-- ================================================== -->
+
+<h2 align="center">◈ &nbsp; THE DEVELOPER DASHBOARD</h2>
+
+<div align="center">
+
+<i>My GitHub activity, expressed through data.</i>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulchandra346&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&ring_color=67E8F9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchandra346&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rahulchandra346&hide_border=true&background=0B1020&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!--                    CONNECT                         -->
+<!-- ================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891B2,50:7C3AED,100:EC4899" alt="Neon divider"/>
+
+<br/>
+
+<h2>LET'S BUILD THE NEXT BIG THING.</h2>
+
+<p>
+Have an interesting idea, a technical challenge, or an opportunity to collaborate?
+<br/>
+I'd love to connect.
+</p>
+
+<br/>
+
+<a href="https://github.com/rahulchandra346">
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-chandra-kolla-8a5698258/">
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kollarahulchandra07%40gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-Message%20Me-111827?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0891B2,50:4C1D95,100:09090B" width="100%" alt="Footer banner"/>
+
+<sub>Designed with curiosity. Built with code. Driven by imagination.</sub>
 
 </div>
